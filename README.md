@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- 🚀 Local animated hero: more reliable than third-party banner services -->
 <img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/banner.svg" width="100%" alt="Siksha Sahayak animated banner"/>
 
 <a href="https://github.com/RICK2814/SSNC">
@@ -43,8 +42,6 @@ The platform is designed around a simple goal: make academic preparation **organ
 
 🔗 **Live Website:** https://ssnc-8qqp.onrender.com/
 
-The live platform provides the application experience for the project, while the Django Admin interface can be used by authorized administrators to manage curriculum and assessment content.
-
 ### 🎯 What the platform does
 
 | Area | What it provides |
@@ -61,7 +58,7 @@ The live platform provides the application experience for the project, while the
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg" width="100%" alt="Animated Siksha Sahayak learning experience flowchart"/>
+<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg?v=3" width="100%" alt="Animated Siksha Sahayak learning experience flowchart"/>
 
 </div>
 
@@ -94,9 +91,7 @@ CURRICULUM → MATERIALS → PRACTICE → ASSESSMENT → RESULTS → IMPROVEMENT
 ## 🚀 Advanced Curriculum Engine
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/curriculum-engine.svg" width="100%" alt="Animated Advanced Curriculum Engine flowchart"/>
-
 </div>
 
 - 📘 Structured subjects and class levels
@@ -197,8 +192,6 @@ Open `http://127.0.0.1:8000/` and visit `http://127.0.0.1:8000/admin/` for admin
 python manage.py seed_curriculum
 ```
 
-Run the seeder once on a fresh database and verify generated records in Django Admin before running it again.
-
 ## 🔐 Production Security Checklist
 
 - [ ] `DEBUG=False`
@@ -257,9 +250,6 @@ Then open a Pull Request.
 This project is distributed under the repository's **MIT License**.
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Learn+%7C+Practice+%7C+Assess+%7C+Improve;Siksha+Sahayak+%E2%80%94+Digital+Learning+Platform" alt="Animated footer"/>
-
 <img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/banner.svg" width="100%" alt="Siksha Sahayak animated footer"/>
-
 </div>
