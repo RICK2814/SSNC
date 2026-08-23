@@ -213,8 +213,10 @@ git push origin feature/your-feature
 
 Then open a Pull Request.
 
-## 📄 License
+## 📜 License
 
-This project is distributed under the repository's **MIT License**.
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/license.svg?v=1" width="100%" alt="Premium animated MIT License panel"/></div>
+
+> **MIT License** — This project is distributed under the repository's MIT License.
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Learn+%7C+Practice+%7C+Assess+%7C+Improve;Siksha+Sahayak+%E2%80%94+Digital+Learning+Platform" alt="Animated footer"/><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/banner.svg" width="100%" alt="Siksha Sahayak animated footer"/></div>
