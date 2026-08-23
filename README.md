@@ -11,6 +11,10 @@
 
 ---
 
+## 🤖 Live System Core
+
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/ai-core.svg?v=1" width="100%" alt="Animated robotic system core with live diagnostic console"/></div>
+
 ## 🌐 About Siksha Sahayak
 
 **Siksha Sahayak** is a full-stack Django-based digital learning and assessment platform created to bring **curriculum, study materials, question banks, practice and quizzes** into one structured learning ecosystem.
