@@ -1,16 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
-<title id="title">Siksha Sahayak Learning Experience</title><desc id="desc">Animated vertical learning journey with a clean improvement loop.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+<title id="title">Siksha Sahayak Learning Experience</title>
+<desc id="desc">Animated vertical learning journey with clean spacing and a non-overlapping improvement loop.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset=".5" stop-color="#0b1630"/><stop offset="1" stop-color="#100b2e"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#0b1630"/><stop offset="1" stop-color="#100b2e"/></linearGradient>
 <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#7c4dff"/></linearGradient>
-<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#00e5ff"/></marker>
 <style>.title{font:800 38px Inter,Segoe UI,Arial,sans-serif;fill:#fff}.sub{font:600 17px Inter,Segoe UI,Arial,sans-serif;fill:#9bb4d2}.label{font:800 19px Inter,Segoe UI,Arial,sans-serif;fill:#fff}.small{font:600 13px Inter,Segoe UI,Arial,sans-serif;fill:#9bb4d2}.node{fill:#0d1a30;stroke:#2b466c;stroke-width:2}.icon{font:700 27px Arial,sans-serif}</style>
 </defs>
-<rect width="1200" height="900" rx="34" fill="url(#bg)"/>
+<rect width="1200" height="960" rx="34" fill="url(#bg)"/>
 <text x="600" y="58" text-anchor="middle" class="title">🔄 LEARNING EXPERIENCE</text>
 <text x="600" y="88" text-anchor="middle" class="sub">Learn • Practice • Assess • Improve • Repeat</text>
-<!-- Central animated arrows: each arrow is between cards only -->
+
+<!-- Animated arrows: strictly between cards -->
 <g fill="none" stroke="url(#flow)" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" filter="url(#glow)">
 <path d="M600 176V205"><animate attributeName="stroke-dasharray" values="0 40;40 0" dur="1s" repeatCount="indefinite"/></path>
 <path d="M600 296V325"><animate attributeName="stroke-dasharray" values="0 40;40 0" dur="1s" begin=".2s" repeatCount="indefinite"/></path>
@@ -18,17 +20,21 @@
 <path d="M600 536V565"><animate attributeName="stroke-dasharray" values="0 40;40 0" dur="1s" begin=".6s" repeatCount="indefinite"/></path>
 <path d="M600 656V685"><animate attributeName="stroke-dasharray" values="0 40;40 0" dur="1s" begin=".8s" repeatCount="indefinite"/></path>
 </g>
-<!-- Loop is entirely outside the cards -->
-<path d="M410 743H270C155 743 95 670 95 545V215C95 120 170 105 285 105H410" fill="none" stroke="#7c4dff" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)" opacity=".9">
+
+<!-- Improvement loop: completely below/left of cards, never crossing text -->
+<path d="M395 743H255C135 743 80 665 80 535V220C80 125 155 105 285 105H395" fill="none" stroke="#7c4dff" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)" opacity=".9">
 <animate attributeName="stroke-dasharray" values="8 18;18 8;8 18" dur="1.5s" repeatCount="indefinite"/>
 </path>
-<text x="105" y="790" class="small" fill="#b9a8ff">↺ Continuous improvement loop</text>
-<!-- Cards -->
+<text x="90" y="820" class="small" fill="#b9a8ff">↺ Continuous improvement loop</text>
+
+<!-- Cards: generous fixed vertical spacing -->
 <g><rect x="410" y="110" width="380" height="66" rx="33" class="node"/><circle cx="446" cy="143" r="19" fill="#00e5ff" opacity=".18"><animate attributeName="r" values="19;26;19" dur="1.6s" repeatCount="indefinite"/></circle><text x="446" y="153" text-anchor="middle" class="icon">📚</text><text x="485" y="141" class="label">LEARN</text><text x="485" y="161" class="small">Understand concepts</text></g>
 <g><rect x="410" y="230" width="380" height="66" rx="33" class="node"/><circle cx="446" cy="263" r="19" fill="#00e5ff" opacity=".18"><animate attributeName="r" values="19;26;19" dur="1.6s" begin=".2s" repeatCount="indefinite"/></circle><text x="446" y="273" text-anchor="middle" class="icon">📖</text><text x="485" y="261" class="label">STUDY MATERIAL</text><text x="485" y="281" class="small">Structured learning resources</text></g>
 <g><rect x="410" y="350" width="380" height="66" rx="33" class="node"/><circle cx="446" cy="383" r="19" fill="#00e5ff" opacity=".18"><animate attributeName="r" values="19;26;19" dur="1.6s" begin=".4s" repeatCount="indefinite"/></circle><text x="446" y="393" text-anchor="middle" class="icon">❓</text><text x="485" y="381" class="label">PRACTICE</text><text x="485" y="401" class="small">Solve topic-wise questions</text></g>
 <g><rect x="410" y="470" width="380" height="66" rx="33" class="node"/><circle cx="446" cy="503" r="19" fill="#00e5ff" opacity=".18"><animate attributeName="r" values="19;26;19" dur="1.6s" begin=".6s" repeatCount="indefinite"/></circle><text x="446" y="513" text-anchor="middle" class="icon">🧠</text><text x="485" y="501" class="label">QUIZ</text><text x="485" y="521" class="small">Test knowledge with active recall</text></g>
 <g><rect x="410" y="590" width="380" height="66" rx="33" class="node"/><circle cx="446" cy="623" r="19" fill="#7c4dff" opacity=".2"><animate attributeName="r" values="19;27;19" dur="1.7s" begin=".8s" repeatCount="indefinite"/></circle><text x="446" y="633" text-anchor="middle" class="icon">📊</text><text x="485" y="621" class="label">ASSESSMENT</text><text x="485" y="641" class="small">Measure knowledge and performance</text></g>
 <g><rect x="410" y="710" width="380" height="66" rx="33" class="node"/><circle cx="446" cy="743" r="19" fill="#7c4dff" opacity=".2"><animate attributeName="r" values="19;27;19" dur="1.7s" begin="1s" repeatCount="indefinite"/></circle><text x="446" y="753" text-anchor="middle" class="icon">🎯</text><text x="485" y="741" class="label">IMPROVEMENT</text><text x="485" y="761" class="small">Identify gaps and grow</text></g>
-<text x="600" y="845" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#5e789b">SIKSHA SAHAYAK • LEARN → PRACTICE → ASSESS → IMPROVE</text>
+
+<!-- Isolated footer: intentionally far below the flow -->
+<text x="600" y="905" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#5e789b">SIKSHA SAHAYAK • LEARN → PRACTICE → ASSESS → IMPROVE</text>
 </svg>
