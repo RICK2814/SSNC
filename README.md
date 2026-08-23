@@ -93,16 +93,11 @@ CURRICULUM → MATERIALS → PRACTICE → ASSESSMENT → RESULTS → IMPROVEMENT
 
 ## 🚀 Advanced Curriculum Engine
 
-```text
-CLASS LEVEL
-   │
-   └── SUBJECT
-        │
-        └── CHAPTER / TOPIC
-             ├── 📖 Advanced Study Material
-             ├── ❓ Important Question Bank
-             └── 🧠 20-Question Quiz
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/curriculum-engine.svg" width="100%" alt="Animated Advanced Curriculum Engine flowchart"/>
+
+</div>
 
 - 📘 Structured subjects and class levels
 - 📖 Advanced topic-wise study material
