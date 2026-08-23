@@ -182,7 +182,7 @@ gunicorn siksha_sahayak.wsgi:application
 
 ## 🗺️ Roadmap
 
-<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/roadmap.svg?v=1" width="100%" alt="Animated robotic SSNC roadmap"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/roadmap.svg?v=3" width="100%" alt="Animated robotic SSNC roadmap"/></div>
 
 ### Roadmap Status
 
