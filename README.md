@@ -21,7 +21,68 @@
   <img src="https://img.shields.io/github/last-commit/RICK2814/SSNC?style=for-the-badge&label=LAST%20COMMIT" alt="Last commit"/>
 </p>
 
+<p>
+  <a href="https://ssnc-8qqp.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Siksha%20Sahayak-00C6FF?style=for-the-badge" alt="Open live demo"/>
+  </a>
+</p>
+
 </div>
+
+---
+
+## 🌐 About Siksha Sahayak
+
+**Siksha Sahayak** is a full-stack Django-based digital learning and assessment platform created to bring **curriculum, study materials, question banks, practice and quizzes** into one structured learning ecosystem.
+
+The platform is designed around a simple goal: make academic preparation **organized, measurable and accessible** for students while giving administrators a powerful interface to manage educational content.
+
+### 🚀 Live Application
+
+> **The project is deployed and accessible online.**
+
+🔗 **Live Website:** https://ssnc-8qqp.onrender.com/
+
+The live platform provides the application experience for the project, while the Django Admin interface can be used by authorized administrators to manage curriculum and assessment content.
+
+### 🎯 What the platform does
+
+| Area | What it provides |
+|---|---|
+| 📚 **Learning Content** | Subjects, class levels, chapters and structured study materials |
+| ❓ **Question Bank** | Important topic-wise questions with answers and explanations |
+| 🧠 **Quizzes** | Topic-based quizzes designed for active practice and assessment |
+| 👨‍🎓 **Students** | Student profiles, learning workflows and assessment attempts |
+| 🛡️ **Administration** | Django Admin for managing academic content and users |
+| 🌱 **Curriculum Engine** | Automated seeding of structured academic resources |
+| 📊 **Assessment** | Practice attempts, quiz attempts and performance-oriented workflows |
+
+### 🔄 Learning Experience
+
+```text
+       📚 LEARN
+          │
+          ▼
+   📖 Study Material
+          │
+          ▼
+     ❓ PRACTICE
+          │
+          ▼
+      🧠 QUIZ
+          │
+          ▼
+    📊 ASSESSMENT
+          │
+          ▼
+    🎯 IMPROVEMENT
+          │
+          └───────────────↺
+```
+
+### 💡 Project Vision
+
+Siksha Sahayak aims to evolve into a **complete digital academic companion** where students can move seamlessly from learning a concept to practicing questions and measuring their understanding through quizzes.
 
 ---
 
