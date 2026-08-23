@@ -20,11 +20,7 @@
   <img src="https://img.shields.io/github/last-commit/RICK2814/SSNC?style=for-the-badge&label=LAST%20COMMIT" alt="Last commit"/>
 </p>
 
-<p>
-  <a href="https://ssnc-8qqp.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Siksha%20Sahayak-00C6FF?style=for-the-badge" alt="Open live demo"/>
-  </a>
-</p>
+<p><a href="https://ssnc-8qqp.onrender.com/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Siksha%20Sahayak-00C6FF?style=for-the-badge" alt="Open live demo"/></a></p>
 
 </div>
 
@@ -34,11 +30,7 @@
 
 **Siksha Sahayak** is a full-stack Django-based digital learning and assessment platform created to bring **curriculum, study materials, question banks, practice and quizzes** into one structured learning ecosystem.
 
-The platform is designed around a simple goal: make academic preparation **organized, measurable and accessible** for students while giving administrators a powerful interface to manage educational content.
-
 ### 🚀 Live Application
-
-> **The project is deployed and accessible online.**
 
 🔗 **Live Website:** https://ssnc-8qqp.onrender.com/
 
@@ -56,11 +48,7 @@ The platform is designed around a simple goal: make academic preparation **organ
 
 ### 🔄 Learning Experience
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg?v=3" width="100%" alt="Animated Siksha Sahayak learning experience flowchart"/>
-
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg?v=3" width="100%" alt="Animated Siksha Sahayak learning experience flowchart"/></div>
 
 ### 💡 Project Vision
 
@@ -90,9 +78,7 @@ CURRICULUM → MATERIALS → PRACTICE → ASSESSMENT → RESULTS → IMPROVEMENT
 
 ## 🚀 Advanced Curriculum Engine
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/curriculum-engine.svg" width="100%" alt="Animated Advanced Curriculum Engine flowchart"/>
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/curriculum-engine.svg?v=2" width="100%" alt="Animated Advanced Curriculum Engine flowchart"/></div>
 
 - 📘 Structured subjects and class levels
 - 📖 Advanced topic-wise study material
@@ -139,50 +125,23 @@ flowchart LR
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,sqlite,git,github,vscode&perline=8" alt="Technology stack"/>
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,django,html,css,sqlite,git,github,vscode&perline=8" alt="Technology stack"/></div>
 
 ## 📁 Project Structure
 
-```text
-SSNC/
-├── accounts/
-├── assessments/
-├── materials/
-├── siksha_sahayak/
-├── static/
-├── templates/
-├── CURRICULUM_SETUP.md
-├── build.sh
-├── manage.py
-├── requirements.txt
-└── README.md
-```
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/project-structure.svg?v=1" width="100%" alt="Animated SSNC project structure"/></div>
 
 ## ⚙️ Local Setup
 
-```bash
-git clone https://github.com/RICK2814/SSNC.git
-cd SSNC
-python -m venv .venv
-```
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/local-setup.svg?v=1" width="100%" alt="Animated local setup flowchart"/></div>
 
 ### Windows PowerShell
 
-```powershell
-.venv\Scripts\activate
-```
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/windows-powershell.svg?v=1" width="100%" alt="Animated Windows PowerShell activation panel"/></div>
 
 ### Install and initialize
 
-```bash
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py seed_curriculum
-python manage.py runserver
-```
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/install-initialize.svg?v=1" width="100%" alt="Animated install and initialization flowchart"/></div>
 
 Open `http://127.0.0.1:8000/` and visit `http://127.0.0.1:8000/admin/` for administration.
 
