@@ -124,7 +124,7 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
-### 📦 Install and initialize :— Copy Ready
+### 📦 Install and initialize — Copy Ready
 
 <div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/install-initialize.svg?v=2" width="100%" alt="Animated install and initialization flowchart"/></div>
 
@@ -181,6 +181,10 @@ gunicorn siksha_sahayak.wsgi:application
 ```
 
 ## 🗺️ Roadmap
+
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/roadmap.svg?v=1" width="100%" alt="Animated robotic SSNC roadmap"/></div>
+
+### Roadmap Status
 
 - [x] Django academic foundation
 - [x] Accounts and student profiles
