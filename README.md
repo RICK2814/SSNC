@@ -2,26 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/banner.svg" width="100%" alt="Siksha Sahayak animated banner"/>
 
-<a href="https://github.com/RICK2814/SSNC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Practice+%E2%86%92+Assess+%E2%86%92+Improve;Django-powered+educational+management+system;Structured+study+materials+%2B+question+banks+%2B+quizzes;Built+for+students%2C+teachers+and+administrators" alt="Animated typing headline"/>
-</a>
+<a href="https://github.com/RICK2814/SSNC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Practice+%E2%86%92+Assess+%E2%86%92+Improve;Django-powered+educational+management+system;Structured+study+materials+%2B+question+banks+%2B+quizzes;Built+for+students%2C+teachers+and+administrators" alt="Animated typing headline"/></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/stars/RICK2814/SSNC?style=for-the-badge&logo=github&label=STARS" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/RICK2814/SSNC?style=for-the-badge&logo=github&label=FORKS" alt="GitHub forks"/>
-  <img src="https://img.shields.io/github/last-commit/RICK2814/SSNC?style=for-the-badge&label=LAST%20COMMIT" alt="Last commit"/>
-</p>
-
-<p><a href="https://ssnc-8qqp.onrender.com/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Siksha%20Sahayak-00C6FF?style=for-the-badge" alt="Open live demo"/></a></p>
-
+<p><img src="https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></p>
+<p><img src="https://img.shields.io/github/stars/RICK2814/SSNC?style=for-the-badge&logo=github&label=STARS"/><img src="https://img.shields.io/github/forks/RICK2814/SSNC?style=for-the-badge&logo=github&label=FORKS"/><img src="https://img.shields.io/github/last-commit/RICK2814/SSNC?style=for-the-badge&label=LAST%20COMMIT"/></p>
+<p><a href="https://ssnc-8qqp.onrender.com/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Siksha%20Sahayak-00C6FF?style=for-the-badge"/></a></p>
 </div>
 
 ---
@@ -48,23 +33,11 @@
 
 ### 🔄 Learning Experience
 
-<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg?v=3" width="100%" alt="Animated Siksha Sahayak learning experience flowchart"/></div>
-
-### 💡 Project Vision
-
-Siksha Sahayak aims to evolve into a **complete digital academic companion** where students can move seamlessly from learning a concept to practicing questions and measuring their understanding through quizzes.
-
----
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg?v=3" width="100%" alt="Animated learning experience flowchart"/></div>
 
 ## ⚡ What is Siksha Sahayak?
 
 **Siksha Sahayak** is a Django-based digital learning and assessment platform designed to organize curriculum, study materials, question banks, quizzes, student accounts and assessment workflows in one place.
-
-The project follows a simple learning loop:
-
-```text
-CURRICULUM → MATERIALS → PRACTICE → ASSESSMENT → RESULTS → IMPROVEMENT
-```
 
 ## 🧠 Core Modules
 
@@ -135,15 +108,47 @@ flowchart LR
 
 <div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/local-setup.svg?v=1" width="100%" alt="Animated local setup flowchart"/></div>
 
-### Windows PowerShell
+### 🪟 Windows PowerShell — Animated & Copy-Ready
 
-<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/windows-powershell.svg?v=1" width="100%" alt="Animated Windows PowerShell activation panel"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/powershell-commands.svg?v=2" width="100%" alt="Animated copy-ready PowerShell terminal"/></div>
 
-### Install and initialize
+**📋 Copy the commands directly from this block:**
 
-<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/install-initialize.svg?v=1" width="100%" alt="Animated install and initialization flowchart"/></div>
+```powershell
+# Clone the repository
+git clone https://github.com/RICK2814/SSNC.git
+cd SSNC
 
-Open `http://127.0.0.1:8000/` and visit `http://127.0.0.1:8000/admin/` for administration.
+# Create and activate virtual environment
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### 📦 Install and initialize — Copy Ready
+
+<div align="center"><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/install-initialize.svg?v=2" width="100%" alt="Animated install and initialization flowchart"/></div>
+
+**📋 Copy the full setup sequence:**
+
+```powershell
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py seed_curriculum
+python manage.py runserver
+```
+
+### 🌐 Open the application
+
+```text
+http://127.0.0.1:8000/
+```
+
+### 🛡️ Open Django Admin
+
+```text
+http://127.0.0.1:8000/admin/
+```
 
 ## 🌱 Curriculum Seeder
 
@@ -208,7 +213,4 @@ Then open a Pull Request.
 
 This project is distributed under the repository's **MIT License**.
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Learn+%7C+Practice+%7C+Assess+%7C+Improve;Siksha+Sahayak+%E2%80%94+Digital+Learning+Platform" alt="Animated footer"/>
-<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/banner.svg" width="100%" alt="Siksha Sahayak animated footer"/>
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Learn+%7C+Practice+%7C+Assess+%7C+Improve;Siksha+Sahayak+%E2%80%94+Digital+Learning+Platform" alt="Animated footer"/><img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/banner.svg" width="100%" alt="Siksha Sahayak animated footer"/></div>
