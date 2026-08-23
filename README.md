@@ -59,26 +59,11 @@ The live platform provides the application experience for the project, while the
 
 ### 🔄 Learning Experience
 
-```text
-       📚 LEARN
-          │
-          ▼
-   📖 Study Material
-          │
-          ▼
-     ❓ PRACTICE
-          │
-          ▼
-      🧠 QUIZ
-          │
-          ▼
-    📊 ASSESSMENT
-          │
-          ▼
-    🎯 IMPROVEMENT
-          │
-          └───────────────↺
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RICK2814/SSNC/main/assets/learning-flow.svg" width="100%" alt="Animated Siksha Sahayak learning experience flowchart"/>
+
+</div>
 
 ### 💡 Project Vision
 
